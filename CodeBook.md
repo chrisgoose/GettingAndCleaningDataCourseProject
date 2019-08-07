@@ -1,12 +1,12 @@
 # Code Book
 
 This code book describes the data, any transformations to clean up the data, and
-the variables found in * `tidyData.csv`
+the variables found in * `tidyData.txt`
 
 
 ## Data
 
-The tidyData.csv file is a csv file, containing comma-separated values.
+The tidyData.txt file is a text file, containing space-separated values.
 The first row contains variable names, described below under Measurements.
 
 
@@ -136,7 +136,7 @@ The R script, `run_analysis.R`, does the following:
 6. Creates a second, independent tidy data set with the average of each variable
    for each activity and each subject.
 
-The end result is shown in the file * `tidyData.csv`.
+The end result is shown in the file * `tidyData.txt`.
 
 
 ##Feature Selection (original data set)

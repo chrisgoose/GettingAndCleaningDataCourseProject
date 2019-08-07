@@ -59,4 +59,4 @@ require("reshape2")
 moltenData <- melt(desiredData, c("subject", "activity"))
 meanData <- dcast(moltenData, subject + activity ~ variable, mean)
 
-write.csv(meanData, "tidyData.csv", row.names=FALSE, quote=FALSE)
+write.table(meanData, "tidyData.txt", row.names=FALSE, quote=FALSE)
