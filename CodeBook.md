@@ -1,7 +1,7 @@
 # Code Book
 
 This code book describes the data, any transformations to clean up the data, and
-the variables found in `tidyData.csv`
+the variables found in * `tidyData.csv`
 
 
 ## Data
@@ -28,85 +28,85 @@ The first row contains variable names, described below under Measurements.
 
 ## Measurements (Final)
 
-`timeBodyAccelerationMeanX`
-`timeBodyAccelerationMeanY`
-`timeBodyAccelerationMeanZ`
-`timeBodyAccelerationStandardDeviationX`
-`timeBodyAccelerationStandardDeviationY`
-`timeBodyAccelerationStandardDeviationZ`
-`timeGravityAccelerationMeanX`
-`timeGravityAccelerationMeanY`
-`timeGravityAccelerationMeanZ`
-`timeGravityAccelerationStandardDeviationX`
-`timeGravityAccelerationStandardDeviationY`
-`timeGravityAccelerationStandardDeviationZ`
-`timeBodyAccelerationJerkMeanX`
-`timeBodyAccelerationJerkMeanY`
-`timeBodyAccelerationJerkMeanZ`
-`timeBodyAccelerationJerkStandardDeviationX`
-`timeBodyAccelerationJerkStandardDeviationY`
-`timeBodyAccelerationJerkStandardDeviationZ`
-`timeBodyGyroscopeMeanX`
-`timeBodyGyroscopeMeanY`
-`timeBodyGyroscopeMeanZ`
-`timeBodyGyroscopeStandardDeviationX`
-`timeBodyGyroscopeStandardDeviationY`
-`timeBodyGyroscopeStandardDeviationZ`
-`timeBodyGyroscopeJerkMeanX`
-`timeBodyGyroscopeJerkMeanY`
-`timeBodyGyroscopeJerkMeanZ`
-`timeBodyGyroscopeJerkStandardDeviationX`
-`timeBodyGyroscopeJerkStandardDeviationY`
-`timeBodyGyroscopeJerkStandardDeviationZ`
-`timeBodyAccelerationMagnitudeMean`
-`timeBodyAccelerationMagnitudeStandardDeviation`
-`timeGravityAccelerationMagnitudeMean`
-`timeGravityAccelerationMagnitudeStandardDeviation`
-`timeBodyAccelerationJerkMagnitudeMean`
-`timeBodyAccelerationJerkMagnitudeStandardDeviation`
-`timeBodyGyroscopeMagnitudeMean`
-`timeBodyGyroscopeMagnitudeStandardDeviation`
-`timeBodyGyroscopeJerkMagnitudeMean`
-`timeBodyGyroscopeJerkMagnitudeStandardDeviation`
-`frequencyBodyAccelerationMeanX`
-`frequencyBodyAccelerationMeanY`
-`frequencyBodyAccelerationMeanZ`
-`frequencyBodyAccelerationStandardDeviationX`
-`frequencyBodyAccelerationStandardDeviationY`
-`frequencyBodyAccelerationStandardDeviationZ`
-`frequencyBodyAccelerationMeanFrequencyX`
-`frequencyBodyAccelerationMeanFrequencyY`
-`frequencyBodyAccelerationMeanFrequencyZ`
-`frequencyBodyAccelerationJerkMeanX`
-`frequencyBodyAccelerationJerkMeanY`
-`frequencyBodyAccelerationJerkMeanZ`
-`frequencyBodyAccelerationJerkStandardDeviationX`
-`frequencyBodyAccelerationJerkStandardDeviationY`
-`frequencyBodyAccelerationJerkStandardDeviationZ`
-`frequencyBodyAccelerationJerkMeanFrequencyX`
-`frequencyBodyAccelerationJerkMeanFrequencyY`
-`frequencyBodyAccelerationJerkMeanFrequencyZ`
-`frequencyBodyGyroscopeMeanX`
-`frequencyBodyGyroscopeMeanY`
-`frequencyBodyGyroscopeMeanZ`
-`frequencyBodyGyroscopeStandardDeviationX`
-`frequencyBodyGyroscopeStandardDeviationY`
-`frequencyBodyGyroscopeStandardDeviationZ`
-`frequencyBodyGyroscopeMeanFrequencyX`
-`frequencyBodyGyroscopeMeanFrequencyY`
-`frequencyBodyGyroscopeMeanFrequencyZ`
-`frequencyBodyAccelerationMagnitudeMean`
-`frequencyBodyAccelerationMagnitudeStandardDeviation`
-`frequencyBodyAccelerationMagnitudeMeanFrequency`
-`frequencyBodyBodyAccelerationJerkMagnitudeMean`
-`frequencyBodyBodyAccelerationJerkMagnitudeStandardDeviation`
-`frequencyBodyBodyAccelerationJerkMagnitudeMeanFrequency`
-`frequencyBodyBodyGyroscopeMagnitudeMean`
-`frequencyBodyBodyGyroscopeMagnitudeStandardDeviation`
-`frequencyBodyBodyGyroscopeMagnitudeMeanFrequency`
-`frequencyBodyBodyGyroscopeJerkMagnitudeMean`
-`frequencyBodyBodyGyroscopeJerkMagnitudeStandardDeviation`
-`frequencyBodyBodyGyroscopeJerkMagnitudeMeanFrequency`
+* `timeBodyAccelerationMeanX`
+* `timeBodyAccelerationMeanY`
+* `timeBodyAccelerationMeanZ`
+* `timeBodyAccelerationStandardDeviationX`
+* `timeBodyAccelerationStandardDeviationY`
+* `timeBodyAccelerationStandardDeviationZ`
+* `timeGravityAccelerationMeanX`
+* `timeGravityAccelerationMeanY`
+* `timeGravityAccelerationMeanZ`
+* `timeGravityAccelerationStandardDeviationX`
+* `timeGravityAccelerationStandardDeviationY`
+* `timeGravityAccelerationStandardDeviationZ`
+* `timeBodyAccelerationJerkMeanX`
+* `timeBodyAccelerationJerkMeanY`
+* `timeBodyAccelerationJerkMeanZ`
+* `timeBodyAccelerationJerkStandardDeviationX`
+* `timeBodyAccelerationJerkStandardDeviationY`
+* `timeBodyAccelerationJerkStandardDeviationZ`
+* `timeBodyGyroscopeMeanX`
+* `timeBodyGyroscopeMeanY`
+* `timeBodyGyroscopeMeanZ`
+* `timeBodyGyroscopeStandardDeviationX`
+* `timeBodyGyroscopeStandardDeviationY`
+* `timeBodyGyroscopeStandardDeviationZ`
+* `timeBodyGyroscopeJerkMeanX`
+* `timeBodyGyroscopeJerkMeanY`
+* `timeBodyGyroscopeJerkMeanZ`
+* `timeBodyGyroscopeJerkStandardDeviationX`
+* `timeBodyGyroscopeJerkStandardDeviationY`
+* `timeBodyGyroscopeJerkStandardDeviationZ`
+* `timeBodyAccelerationMagnitudeMean`
+* `timeBodyAccelerationMagnitudeStandardDeviation`
+* `timeGravityAccelerationMagnitudeMean`
+* `timeGravityAccelerationMagnitudeStandardDeviation`
+* `timeBodyAccelerationJerkMagnitudeMean`
+* `timeBodyAccelerationJerkMagnitudeStandardDeviation`
+* `timeBodyGyroscopeMagnitudeMean`
+* `timeBodyGyroscopeMagnitudeStandardDeviation`
+* `timeBodyGyroscopeJerkMagnitudeMean`
+* `timeBodyGyroscopeJerkMagnitudeStandardDeviation`
+* `frequencyBodyAccelerationMeanX`
+* `frequencyBodyAccelerationMeanY`
+* `frequencyBodyAccelerationMeanZ`
+* `frequencyBodyAccelerationStandardDeviationX`
+* `frequencyBodyAccelerationStandardDeviationY`
+* `frequencyBodyAccelerationStandardDeviationZ`
+* `frequencyBodyAccelerationMeanFrequencyX`
+* `frequencyBodyAccelerationMeanFrequencyY`
+* `frequencyBodyAccelerationMeanFrequencyZ`
+* `frequencyBodyAccelerationJerkMeanX`
+* `frequencyBodyAccelerationJerkMeanY`
+* `frequencyBodyAccelerationJerkMeanZ`
+* `frequencyBodyAccelerationJerkStandardDeviationX`
+* `frequencyBodyAccelerationJerkStandardDeviationY`
+* `frequencyBodyAccelerationJerkStandardDeviationZ`
+* `frequencyBodyAccelerationJerkMeanFrequencyX`
+* `frequencyBodyAccelerationJerkMeanFrequencyY`
+* `frequencyBodyAccelerationJerkMeanFrequencyZ`
+* `frequencyBodyGyroscopeMeanX`
+* `frequencyBodyGyroscopeMeanY`
+* `frequencyBodyGyroscopeMeanZ`
+* `frequencyBodyGyroscopeStandardDeviationX`
+* `frequencyBodyGyroscopeStandardDeviationY`
+* `frequencyBodyGyroscopeStandardDeviationZ`
+* `frequencyBodyGyroscopeMeanFrequencyX`
+* `frequencyBodyGyroscopeMeanFrequencyY`
+* `frequencyBodyGyroscopeMeanFrequencyZ`
+* `frequencyBodyAccelerationMagnitudeMean`
+* `frequencyBodyAccelerationMagnitudeStandardDeviation`
+* `frequencyBodyAccelerationMagnitudeMeanFrequency`
+* `frequencyBodyBodyAccelerationJerkMagnitudeMean`
+* `frequencyBodyBodyAccelerationJerkMagnitudeStandardDeviation`
+* `frequencyBodyBodyAccelerationJerkMagnitudeMeanFrequency`
+* `frequencyBodyBodyGyroscopeMagnitudeMean`
+* `frequencyBodyBodyGyroscopeMagnitudeStandardDeviation`
+* `frequencyBodyBodyGyroscopeMagnitudeMeanFrequency`
+* `frequencyBodyBodyGyroscopeJerkMagnitudeMean`
+* `frequencyBodyBodyGyroscopeJerkMagnitudeStandardDeviation`
+* `frequencyBodyBodyGyroscopeJerkMagnitudeMeanFrequency`
 
 
 ##Transformations
@@ -129,14 +129,14 @@ The R script, `run_analysis.R`, does the following:
 * `std` -> `StandardDeviation`
 * `Acc` -> `Acceleration`
 * `Gyro` -> `Gyroscope`
-* `Freq` -> `Frequency`
+* `freq` -> * `frequency`
 * `Mag` -> `Magnitude`
-* `t` -> `time`
-* `f` -> `frequency`
+* `t` -> * `time`
+* `f` -> * `frequency`
 6. Creates a second, independent tidy data set with the average of each variable
    for each activity and each subject.
 
-The end result is shown in the file `tidyData.csv`.
+The end result is shown in the file * `tidyData.csv`.
 
 
 ##Feature Selection (original data set)
@@ -144,7 +144,7 @@ The end result is shown in the file `tidyData.csv`.
 
 The features selected for this database come from the accelerometer and
 gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals
-(prefix `t` to denote time) were captured at a constant rate of 50 Hz. Then they
+(prefix * `t` to denote time) were captured at a constant rate of 50 Hz. Then they
 were filtered using a median filter and a 3rd order low pass Butterworth filter
 with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration
 signal was then separated into body and gravity acceleration signals
@@ -158,7 +158,7 @@ norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkM
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals
 producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag,
-fBodyGyroMag, fBodyGyroJerkMag. (Note the `f` to indicate frequency domain
+fBodyGyroMag, fBodyGyroJerkMag. (Note the * `f` to indicate frequency domain
 signals). 
 
 These signals were used to estimate variables of the feature vector for each
@@ -211,4 +211,4 @@ These are used on the angle variable:
 * `tBodyGyroMean`
 * `tBodyGyroJerkMean`
 
-The complete list of variables of each feature vector is available in `features.txt`
+The complete list of variables of each feature vector is available in * `features.txt`
